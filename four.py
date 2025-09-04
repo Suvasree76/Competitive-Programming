@@ -7,3 +7,10 @@ def climbStairs(n: int) -> int:
     return b
 print(climbStairs(2))  
 print(climbStairs(3))  
+print(climbStairs(4))  
+print(climbStairs(5))
+
+#2
+#3
+#5
+#8
